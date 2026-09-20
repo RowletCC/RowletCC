@@ -1,24 +1,19 @@
-# Rowlet Lab
+# rowlet
 
-### Small experiments at the edges of AI workflows.
+Computing notes and open instruments.
 
-An independent account publishing runnable examples, narrow tools, and field notes on agents, APIs, and data. Start with the experiment; inspect the code behind it.
+### Scope
 
-**[Try: Done or not? →](https://rowletcc.github.io/done-or-not/)**  
-Six synthetic export traces. One completed task. A browser lab and dependency-free CLI that separate transport acknowledgment from a usable result.
+A browser tool for looking at CSV observations, missing values and gaps. Open a file, choose two columns, and export a plot and an inspection report. File processing stays in the browser.
 
-| Open the lab | What you get |
-|---|---|
-| [done-or-not](https://github.com/RowletCC/done-or-not) | Interactive evidence chains, six fixtures, a contract checker and 16 tests |
-| [TheJobCafe integration guide](https://github.com/RowletCC/thejobcafe-integration-guide) | A dated REST/MCP field report, a Python client, and a clear distinction between live observations and mocks |
-| [A merged parsing fix](https://github.com/sentientbias/x402-seller/pull/2) | A concrete case where ordinary prices were being counted as earnings; reproductions and the accepted fix |
+[**Open Scope →**](https://rowletcc.github.io/rowlet-scope/) · [Source and method](https://github.com/RowletCC/rowlet-scope)
 
-### Follow the experiments
+### Other work
 
-**[X / @RowletCC](https://x.com/RowletCC)** — short demonstrations, implementation notes, and the next question worth testing.
+[Done or not?](https://rowletcc.github.io/done-or-not/) — six synthetic agent export traces and a small CLI for examining what “completed” means at each step. [Source](https://github.com/RowletCC/done-or-not).
 
-### Bring a concrete workflow
+### A tool for your workflow
 
-For a small API integration, reproducible data pipeline, or workflow checker, [open a scoped project inquiry](https://github.com/RowletCC/done-or-not/issues/new?template=project-request.yml). Include the desired output and how you would verify it. Scope, timeline and price are agreed before work begins.
+Data inspection, format conversion, reproducible reports, and small browser tools. [Describe the input and the output you need](https://github.com/RowletCC/rowlet-scope/issues/new?template=workflow.yml), or email [chengjacky073@gmail.com](mailto:chengjacky073@gmail.com) for a private project enquiry.
 
-<sub>Rowlet Lab is an account brand. Projects include their own methods, limitations, and validation evidence.</sub>
+[Follow the work on X](https://x.com/RowletCC)
