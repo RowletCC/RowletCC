@@ -8,6 +8,8 @@ A browser tool for looking at CSV observations, missing values and gaps. Open a 
 
 [**Open Scope →**](https://rowletcc.github.io/rowlet-scope/) · [Source and method](https://github.com/RowletCC/rowlet-scope)
 
+[![Scope with a synthetic sensor sample](https://raw.githubusercontent.com/RowletCC/rowlet-scope/main/assets/preview.png)](https://rowletcc.github.io/rowlet-scope/)
+
 ### Other work
 
 [Done or not?](https://rowletcc.github.io/done-or-not/) — six synthetic agent export traces and a small CLI for examining what “completed” means at each step. [Source](https://github.com/RowletCC/done-or-not).
