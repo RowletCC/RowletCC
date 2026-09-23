@@ -12,6 +12,8 @@ A browser tool for looking at CSV observations, missing values and gaps. Open a 
 
 ### Selected work
 
+[IRIS Driftline](https://github.com/RowletCC/iris-driftline) — a read-only operations workspace for InterSystems IRIS. It uses the official SysAdmin API to surface scheduled work, classify task-history errors, and compare configuration snapshots. Tested against IRIS Community Edition.
+
 [Done or not?](https://rowletcc.github.io/done-or-not/) — six synthetic agent export traces and a small CLI for examining what “completed” means at each step. [Source](https://github.com/RowletCC/done-or-not).
 
 [YeNo paper-volume bot](https://github.com/RowletCC/yeno-paper-volume-bot) — a bounded trading-decision service built for a paper-market challenge. It exposes a local `/decide` endpoint, includes state tests, and has no route to place real trades.
